@@ -1,0 +1,35 @@
+body {
+    background-color: crimson;
+    font-family: 'Comic Neue', cursive;
+}
+.header_div {
+    background: coral;
+    color: rgb(255, 255, 255);
+}
+.header_div p {
+    font-family: 'Bubblegum Sans', cursive;
+    color: darkblue;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button {
+    margin-top: 30px;
+    width: 140px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    background-color: darkorange;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    font-size: 18px;
+}
+button:hover {
+background-color: deepskyblue;
+}
